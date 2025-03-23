@@ -1,6 +1,6 @@
 # System-for-ensuring-the-functioning-of-technical-systems
 
-It's an implementation of a computational algorithm for diagnosing the technical condition system. The work considers a resuscitation vehicle that moves in operating mode, i.e. with a patient on board. The patient's life is ensured by medical equipment powered by the onboard network of the resuscitation vehicle.
+It's an implementation of a computational algorithm for diagnostics of the technical system and esuring it is working properly. The work considers a resuscitation vehicle that moves in operating mode, i.e. with a patient on board. The patient's life is ensured by medical equipment powered by the onboard network of the resuscitation vehicle.
 
 Data descryption:
 
